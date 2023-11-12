@@ -31,7 +31,7 @@
                             <td>{{ $main->kendaraan }}</td>
                             <td>{{ $main->jumlahharga }}</td>
                             <td>
-                                <a href="{{ route('order.edit', $main->id) }}" class="btn btn-warning btn-sm">Edit</a>
+                                {{-- <a href="{{ route('order.edit', $main->id) }}" class="btn btn-warning btn-sm">Edit</a> --}}
                                 <form onsubmit="return confirm('Yakin akan menghapus data?')" class="d-inline" action="{{ url('order/'.$main->id) }}" method="post">
                                     @csrf
                                     @method('DELETE')
