@@ -35,6 +35,7 @@
                             <th class="col-md-2">Harga 'Rp'</th>
                             <th class="col-md-2">Ukuran Bagasi 'm'</th> 
                             <th class="col-md-2">Kapasitas Bensin 'liter'</th>
+                            <th class="col-md-2">Aksi</th>
                         </tr>
                     </thead>
                     <tbody>
