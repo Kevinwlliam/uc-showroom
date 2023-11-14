@@ -33,7 +33,6 @@
                             <th class="col-md-2">Jumlah Penumpang</th>
                             <th class="col-md-2">Manufaktur</th>
                             <th class="col-md-2">Harga 'Rp'</th>
-                            <th class="col-md-2">Tipe Bahan Bakar</th>
                             <th class="col-md-2">Ukuran Bagasi 'm'</th> 
                             <th class="col-md-2">Kapasitas Bensin 'liter'</th>
                         </tr>
