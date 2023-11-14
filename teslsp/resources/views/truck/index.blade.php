@@ -7,12 +7,6 @@
         <div class="my-3 p-3 bg-body rounded shadow-sm">
 
                             <!-- FORM PENCARIAN -->
-                            <div class="pb-3">
-                                <form class="d-flex" action="{{ url('truck') }}" method="get">
-                                    <input class="form-control me-1" type="search" name="katakunci" value="{{ Request::get('katakunci') }}" placeholder="Masukkan kata kunci" aria-label="Search">
-                                    <button class="btn btn-secondary" type="submit">Cari</button>
-                                </form>
-                              </div>
                 
                 <!-- TOMBOL TAMBAH DATA -->
                 <div class="pb-3">
